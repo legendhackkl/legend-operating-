@@ -1,9 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author  : Aditya Shakya (adi1090x)
-## Mail    : adi1090x@gmail.com
-## Github  : @adi1090x
-## Twitter : @adi1090x
+## Author  : Aditya Singh (legendhackkl)
+## Mail    : hackerlegend935@gmail.com
+## Github  : @legendhackkl 
 
 ## Termux Desktop : Setup GUI in Termux 
 
@@ -41,7 +40,8 @@ banner() {
 		${RED}│${GREEN}░░░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░░░█░█░█▀▀░▀▀█░█▀▄░░█░░█░█░█▀▀░░${RED}│
 		${RED}│${GREEN}░░░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░▀▀░░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░░░░${RED}│
 		${RED}└──────────────────────────────────────────────────────────┘
-		${BLUE}By : Aditya Shakya // @adi1090x
+		${BLUE}By : Aditya Singh aka legend hack // @legendhackkl
+                ${RED} : MR LEGEND HACKER 
 	EOF
 }
 
