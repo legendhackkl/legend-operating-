@@ -36,9 +36,9 @@ banner() {
 	clear
     cat <<- EOF
 		${RED}┌──────────────────────────────────────────────────────────┐
-		${RED}│${GREEN}░░░▀█▀░█▀▀░█▀▄░█▄█░█░█░█░█░░░█▀▄░█▀▀░█▀▀░█░█░▀█▀░█▀█░█▀█░░${RED}│
-		${RED}│${GREEN}░░░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░░░█░█░█▀▀░▀▀█░█▀▄░░█░░█░█░█▀▀░░${RED}│
-		${RED}│${GREEN}░░░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░▀▀░░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░░░░${RED}│
+		${RED}│${GREEN}🄸🄽🄳🄸🄰🄽 🄲🅈🄱🄴🅁 🄰🅁🄼🅈 🅃🄷🄴 🅃🄴🄰🄼 🄾🄵 🄻🄴🄶🄴🄽🄳 🄷🄰🄲🄺${RED}│
+		${RED}│${GREEN}🄾🅂 🄼🄰🄳🄴 🄱🅈 🄻🄴🄶🄴🄽🄳 🄷🄰🄲🄺${RED}│
+                ${RED}│${GREEN} 𝐈 𝐇𝐎𝐏𝐄 𝐘𝐎𝐔 𝐀𝐋𝐋 𝐋𝐈𝐊𝐄 𝐌𝐘 𝐎𝐏𝐑𝐄𝐓𝐈𝐍𝐆 𝐒𝐄𝐘𝐒𝐓𝐀𝐌${RED}│
 		${RED}└──────────────────────────────────────────────────────────┘
 		${BLUE}By : Aditya Singh aka legend hack // @legendhackkl
                 ${RED} : MR LEGEND HACKER 
@@ -54,7 +54,7 @@ usage() {
 
 ## Update, X11-repo, Program Installation
 _pkgs=(bc bmon calc calcurse curl dbus desktop-file-utils elinks feh fontconfig-utils fsmon \
-		geany git gtk2 gtk3 htop-legacy imagemagick jq leafpad man mpc mpd mutt ncmpcpp \
+		geany git gtk2 gtk3  imagemagick jq leafpad man mpc mpd mutt ncmpcpp \
 		ncurses-utils neofetch netsurf obconf openbox openssl-tool polybar ranger rofi \
 		startup-notification termux-api thunar tigervnc vim wget xarchiver xbitmaps xcompmgr \
 		xfce4-settings xfce4-terminal xmlstarlet xorg-font-util xorg-xrdb zsh)
