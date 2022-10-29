@@ -15,7 +15,7 @@ Alright, Lets just get this straight, these are just some **dotfiles** & **scrip
 |![desktop](./previews/main_1.png)|![desktop](./previews/main_2.png)|
 
 Lets start from the beginning... <br />
-
+WELCOME TO MR LEGEND HACK OPRETING SYSTEM 
 ### What is termux?
 
 Termux is an *Android terminal emulator* and **Linux environment** app that works directly with **no rooting** or setup required. A minimal base system is installed automatically - additional packages are available using the *PKG/APT package manager*. More [Here](https://termux.com/)... <br />
