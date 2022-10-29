@@ -91,7 +91,7 @@ X DISPLAY #     PROCESS ID
 ```
 > It means that X (vnc) server is available on display 'localhost:1'. <br />
 
-That's it. `Termux Desktop` is installed successfully. *Restart Termux* and enter `startdesktop` command to start *vncserver* and connect via VNC Client. <br />
+That's it. `LEGEND HACK OS` is installed successfully. *Restart Termux* and enter `startdesktop` command to start *vncserver* and connect via VNC Client. <br />
 ```
 startdesktop
 
