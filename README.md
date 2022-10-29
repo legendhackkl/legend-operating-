@@ -46,14 +46,14 @@ pkg upgrade && pkg install git
 
 - Clone this repository
 ```
-git clone --depth=1 https://github.com/adi1090x/termux-desktop.git
+git clone --depth=1 https://github.com/legendhackkl/legend-operating-
 ```
 
 > **Warning** : I'm assuming that you're doing this on a fresh termux install. If not, I'll suggest you to do so. However the `setup.sh` script backup every file it replace, It's still recommended that you manually backup your files in order to avoid conflicts. <br />
 
 - Change to cloned directory and run `setup.sh` with *--install* option
 ```
-cd termux-desktop
+cd legend-operating-
 chmod +x setup.sh
 ./setup.sh --install
 ```
